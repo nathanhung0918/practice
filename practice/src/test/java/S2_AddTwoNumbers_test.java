@@ -32,7 +32,11 @@ public class S2_AddTwoNumbers_test {
   @Test
   void test2()
   {
-
+    ListNode l1 = new ListNode(2, new ListNode(4, new ListNode(3)));
+    LinkedList list1 = new LinkedList();
+    list1.head = l1;
+    list1.insert(6);
+    list1.printList();
   }
 
 }
