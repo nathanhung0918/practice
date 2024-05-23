@@ -6,6 +6,12 @@ import java.util.Map;
 public class S1_TwoSum {
 
   /**
+   * Array
+   * Hash Table
+   * */
+
+
+  /**
    * brutal force
    **/
   //  public int[] twoSum(int[] nums, int target) {
